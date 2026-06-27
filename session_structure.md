@@ -458,3 +458,5 @@ Leave the last 4 minutes of a 45-minute slot for questions — but do not announ
 2. The tear-jerker has pauses. The pauses are not awkward. They are the mechanism.
 3. Do not explain what just happened after the closing. Do not say "so what I was trying to show you there was..." Just stop.
 4. The article and the talk cover the same material. The article does not hint at the closing. Someone who reads the article before the talk will not see the transition coming. Keep it that way.
+
+... and if you appreciated this session, you can get me for next year's conference to tell you about v2 :)

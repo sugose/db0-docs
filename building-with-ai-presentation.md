@@ -567,3 +567,5 @@ Full deck as written. Story carries the prospects; the technical depth satisfies
 ---
 
 *Presentation developed by Clead (Claude) in collaboration with Adam, June 2026*
+
+... and if you appreciated this session, you can get me for next year's conference to tell you about v2 :)
